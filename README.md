@@ -444,7 +444,6 @@ If the `.pbix` file is added:
 - Pandas documentation, if external Python functionality was referenced
 - Matplotlib documentation, if external plotting functionality was referenced
 
-> If no external code or resources were used, state: **"No external code or resources were used."**
 
 ---
 

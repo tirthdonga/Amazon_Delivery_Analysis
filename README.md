@@ -429,9 +429,9 @@ If the `.pbix` file is added:
 
 # 🎥 Working Video
 
-**Video URL:** `[ADD WORKING VIDEO URL HERE]`
+**Video URL:** https://drive.google.com/file/d/1jwSYiilLa7xRAq8PRNCB1iiQsPIM_PeP/view?usp=sharing
 
-**Duration:** `[ADD VIDEO DURATION HERE]`
+**Duration:** 9:18 min
 
 ---
 

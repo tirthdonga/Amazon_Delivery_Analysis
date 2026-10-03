@@ -1,0 +1,6 @@
+pandas
+matplotlib
+jupyter notebook
+python
+Excel
+MySQL

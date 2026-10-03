@@ -468,7 +468,6 @@ If the `.pbix` file is added:
 
 **Donga Tirth**  
 **GR-ID: 13216**  
-**Assigned Set: Set A**
 
 ---
 

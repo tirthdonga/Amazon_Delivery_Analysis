@@ -364,12 +364,12 @@ Power BI = 22 days
 
 | Tool | Purpose | Version |
 |---|---|---|
-| **Microsoft Excel** | Cleaning, formulas, summaries, PivotTable and dashboard | Not documented in project files |
-| **MySQL** | Database creation and SQL analysis | Not documented in project files |
-| **Python** | Data cleaning and analysis | Not documented in project files |
-| **Pandas** | Data manipulation and aggregation | Not documented in project files |
-| **Matplotlib** | Data visualization | Not documented in project files |
-| **Power BI** | Dashboard/reporting | `.pbix` not included in supplied ZIP |
+| **Microsoft Excel** | Cleaning, formulas, summaries, PivotTable and dashboard | 
+| **MySQL** | Database creation and SQL analysis |
+| **Python** | Data cleaning and analysis |
+| **Pandas** | Data manipulation and aggregation |
+| **Matplotlib** | Data visualization |
+| **Power BI** | Dashboard/reporting | 
 
 > **Note:** The project files do not contain a `requirements.txt` or explicit software-version record. Exact versions should be added here if required by the submission.
 
@@ -444,7 +444,6 @@ If the `.pbix` file is added:
 - Pandas documentation, if external Python functionality was referenced
 - Matplotlib documentation, if external plotting functionality was referenced
 
-> If no external code or resources were used, state: **"No external code or resources were used."**
 
 ---
 
